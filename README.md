@@ -2,7 +2,17 @@
 
 Use of SQLModel with python
 
-Video from Eric Roby on Youtube, he teaches how create SQLite with Python, using SQLModel package
+Video from Eric Roby on Youtube, he teaches how create SQLite with Python, using SQLModel package.
+
+## Steps
+
+- Create Models
+- Create Database
+- Create Tables
+- Create Data
+- Read Data
+- Update Data
+- Delete Data
 
 ## Source
 

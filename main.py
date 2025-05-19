@@ -47,9 +47,9 @@ SQLModel.metadata.create_all(engine)
 #     print(results)
 
 ####ULTRA MEGA RESUMED WAY####
-# with Session(engine) as session:
-#     results = session.exec(select(Book)).all()
-#     print(results)
+with Session(engine) as session:
+    results = session.exec(select(Book)).all()
+    print(results)
 
 ####SELECT BY BOOK TITLE####
 # with Session(engine) as session:

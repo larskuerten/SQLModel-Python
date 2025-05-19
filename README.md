@@ -1,4 +1,4 @@
-# SQLModel
+![Status](https://img.shields.io/badge/SQLModel-Python-brightgreen?style=for-the-badge)
 
 Use of SQLModel with python
 
